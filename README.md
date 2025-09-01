@@ -49,7 +49,7 @@ Run the app:
 npx expo start
 ```
 
-> ⚠️ Note: You must provide a valid API key from the basketball news provider. Instructions for setting it up are in the `.env.example` file.
+> ⚠️ Note: the app may not be working anymore because we cut the connection to the API.
 
 ## 🔐 API Usage
 
